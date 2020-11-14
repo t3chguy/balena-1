@@ -1,0 +1,6 @@
+[submodule "balena-ads-b"]
+	path = balena-ads-b
+	url = git@github.com:t3chguy/balena-ads-b.git
+[submodule "octobalena"]
+	path = octobalena
+	url = https://github.com/MatthewCroughan/octobalena
